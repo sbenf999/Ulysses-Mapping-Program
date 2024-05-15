@@ -9,9 +9,14 @@ Originally designed to be used on a 7-inch raspberry pi display, for usage on an
 
 ## Features
 
-- Light/dark mode toggle
+- Light/dark/system mode toggle
 - Fullscreen mode
 - Cross platform
+- Add markers to database
+- Select marker overlay from mutiple databases through settings
+- Set default database for markers to be added to
+- Ability to delete databases through settings UI
+- Included tool to download offline tiles off of either OSM or Google Sattelite Servers
 
 
 ## Screenshots
