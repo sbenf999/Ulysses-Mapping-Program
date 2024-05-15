@@ -23,7 +23,12 @@ Useful for situations where the internet is unreachable and therefore and offlin
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/sbenf999/Ulysses-Mapping-Program/blob/master/Screenshots/MainWithMarker.png)
+
+![App Screenshot](https://github.com/sbenf999/Ulysses-Mapping-Program/blob/master/Screenshots/MainWithMarkerSattelite.png)
+
+![App Screenshot](https://github.com/sbenf999/Ulysses-Mapping-Program/blob/master/Screenshots/Settings.png?raw=true)
+
 
 
 ## Contributing
