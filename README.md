@@ -1,5 +1,3 @@
-![image](https://github.com/sbenf999/Ulysses-Mapping-Program/assets/125464792/cf782f10-bd3a-4815-a496-1c9835f9f9fc)
-
 # Ulysses Mapping Program
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
