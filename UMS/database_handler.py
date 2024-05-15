@@ -1,7 +1,15 @@
 import sqlite3
+import os
 
 class Handler:
     def create_database():
+        current_directory = os.getcwd()
+        folder_name = "Markers"
+        folder_path = os.path.join(current_directory, folder_name)
+        
+        if not os.path.exists(folder_path):
+            os.makedirs(folder_path)
+        
         conn = sqlite3.connect('Markers/locationsM.db')
         c = conn.cursor()
         c.execute('''CREATE TABLE IF NOT EXISTS locations
@@ -9,7 +17,6 @@ class Handler:
         conn.commit()
         conn.close()
 
-    # Function to add a record to the database
     def add_location(longitude, latitude, name):
         conn = sqlite3.connect('Markers/locationsM.db')
         c = conn.cursor()
@@ -17,7 +24,6 @@ class Handler:
         conn.commit()
         conn.close()
 
-    # Function to load records from the database one by one
     def load_locations():
         conn = sqlite3.connect('Markers/locationsM.db')
         c = conn.cursor()
