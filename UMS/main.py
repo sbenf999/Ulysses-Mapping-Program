@@ -39,7 +39,7 @@ class App(customtkinter.CTk):
         self.bind("<Shift-q>", self.on_closing)
         self.bind("<Command-w>", self.on_closing)
         self.createcommand('tk::mac::Quit', self.on_closing)
-        self.after(201, lambda :self.iconbitmap('Icons/location.ico'))
+        self.after(201, lambda :self.iconbitmap('Icons/logo.ico'))
         
         self.marker_list = []
 
@@ -120,7 +120,7 @@ class App(customtkinter.CTk):
     def menu_setup(self):
         self.frame_left.grid_rowconfigure(2, weight=1)
         
-        self.logo_label = customtkinter.CTkLabel(self.frame_left, text="U.M.S ⛯", font=customtkinter.CTkFont(size=20, weight="bold"))
+        self.logo_label = customtkinter.CTkLabel(self.frame_left, text="U.M.S +", font=customtkinter.CTkFont(size=20, weight="bold"))
         self.version_number = customtkinter.CTkLabel(self.frame_left, text="v0.2.1-24", font=customtkinter.CTkFont(size=10))
         self.logo_label.grid(row=0, column=0, padx=20, pady=(20, 0))
         self.version_number.grid(row=1, column=0, padx=20, pady=(0, 10))

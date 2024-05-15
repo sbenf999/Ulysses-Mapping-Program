@@ -54,7 +54,7 @@ class Settings(customtkinter.CTk):
         
         def check_offline_db():
             offline_db_ls = []
-            files = glob.glob('./*.db')
+            files = glob.glob('Offline/*.db')
             for file in files:
                 file = file[2:]
                 if file[len(file)-4] != "M":
