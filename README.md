@@ -25,8 +25,6 @@ Useful for situations where the internet is unreachable and therefore and offlin
 
 ![App Screenshot](https://github.com/sbenf999/Ulysses-Mapping-Program/blob/master/Screenshots/MainWithMarker.png)
 
-![App Screenshot](https://github.com/sbenf999/Ulysses-Mapping-Program/blob/master/Screenshots/MainWithMarkerSattelite.png)
-
 ![App Screenshot](https://github.com/sbenf999/Ulysses-Mapping-Program/blob/master/Screenshots/Settings.png?raw=true)
 
 
