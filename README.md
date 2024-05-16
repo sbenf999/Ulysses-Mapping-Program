@@ -28,7 +28,7 @@ Useful for situations where the internet is unreachable and therefore an offline
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/offline-map-explorer.git](https://github.com/sbenf999/Ulysses-Mapping-Program.git
+   git clone https://github.com/sbenf999/Ulysses-Mapping-Program.git
    ```
 
 2. Install dependencies:
