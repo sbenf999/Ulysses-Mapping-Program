@@ -1,5 +1,9 @@
+<p align='left'>
+   <img src='/UMS/Icons/logo.ico' width='75'>
+</p>
+
 # Ulysses Mapping Program
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
 An offline and online mapping program created using CustomTkinter and TkinterMapview. Incorporates a settings system and an offline tile downloading addon. 
 
