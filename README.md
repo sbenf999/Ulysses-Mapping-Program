@@ -5,7 +5,7 @@ An offline and online mapping program created using CustomTkinter and TkinterMap
 
 Originally designed to be used on a 7-inch raspberry pi display, for usage on an offline cyberdeck system. Can be utilised on Windows, Linux and Mac however.
 
-Useful for situations where the internet is unreachable and therefore and offline tile database needs to be used for mapping. The program will switch to this mode as soon as it detects that there is no internet connection.
+Useful for situations where the internet is unreachable and therefore an offline tile database needs to be used for mapping. The program will switch to this mode as soon as it detects that there is no internet connection.
 ## Features
 
 - Light/dark/system mode toggle
@@ -52,7 +52,7 @@ Please adhere to this project's `code of conduct`.
 
 ## License
 
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License - see 'LICENSE' file for details.
+This project is licensed under the [CC0 1.0 License](https://creativecommons.org/publicdomain/zero/1.0/legalcode.en) - see 'LICENSE' file for details.
 
 
 
