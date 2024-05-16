@@ -18,14 +18,28 @@ Useful for situations where the internet is unreachable and therefore and offlin
 - Included tool to download offline tiles off of either OSM or Google Sattelite Servers
 - Automatic internet connection detection for setting tile database to offline
 
+## Installation
+**Either**
 
-## Screenshots
+1. Clone the repository:
 
-![App Screenshot](https://github.com/sbenf999/Ulysses-Mapping-Program/blob/master/Screenshots/MainWithMarker.png)
+   ```bash
+   git clone https://github.com/yourusername/offline-map-explorer.git](https://github.com/sbenf999/Ulysses-Mapping-Program.git
+   ```
 
-![App Screenshot](https://github.com/sbenf999/Ulysses-Mapping-Program/blob/master/Screenshots/Settings.png?raw=true)
+2. Install dependencies:
 
+   ```bash
+   pip install -r requirements.txt
+   ```
 
+3. Run the application:
+
+   ```bash
+   python UMS/main.py
+   ```
+**or**
+Download the latest [release](https://github.com/sbenf999/Ulysses-Mapping-Program/tags) 
 
 ## Contributing
 
@@ -38,5 +52,7 @@ Please adhere to this project's `code of conduct`.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License - see 'LICENSE' file for details.
+
+
 
